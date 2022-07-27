@@ -1,0 +1,20 @@
+.footer-main-div{
+    background-color: #f0f5f5;
+   
+}
+
+.main-div{
+    display: flex;
+    justify-content: space-evenly;
+    font-style: normal;
+    font-weight: normal;
+    
+}
+
+.footer-last p{
+    margin-top: 20px;
+    height: 50px;
+    color :white;
+    background-color:#14032e;
+    text-align: center;
+}
